@@ -29,7 +29,7 @@ require (
 	github.com/containers/image/v5 v5.9.0 // indirect
 	github.com/containers/libtrust v0.0.0-20190913040956-14b96171aa3b // indirect
 	github.com/containers/ocicrypt v1.0.3 // indirect
-	github.com/docker/docker v1.13.1 // indirect
+	github.com/docker/docker v24.0.9+incompatible // indirect
 	github.com/emirpasic/gods v1.12.0 // indirect
 	github.com/go-git/gcfg v1.5.0 // indirect
 	github.com/go-git/go-billy/v5 v5.0.0 // indirect
